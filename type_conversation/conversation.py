@@ -64,3 +64,13 @@ print(f'string: {string}')
 
 order = sorted(x)
 print(f'order: {order}')
+
+#change the value of num to a string
+num1 = int(3)
+str1 = str(num1)
+
+print(type(num1))
+print(type(str1))
+
+print(f"The value of num1 is: {num1}")
+print(f"The value of str1 is: {str1}")
